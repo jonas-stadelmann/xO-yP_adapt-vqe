@@ -1,0 +1,4 @@
+This ADAPT-VQE code is for choosing the optimized position within the ansatz for just the appending gradient selected operator. Thus it is important to use the modified adapt_data.py file.
+The placing of the operators is based on the operator position array.
+DO NOT USE THIS CODE FOR OPERATOR POSITION ARRAY BASED CALCUATIONS!!!
+Thats due to the fact, that this code has disabled this capability and resets the operator position array every time and just reads out the position index 0 within the operator position array to obtain the index for the operator position within the ansatz.
