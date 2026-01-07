@@ -40,7 +40,7 @@ numpy 1.26.4
 
 ## Test Systems
 
-All example scripts use the $H_6$ molecule with $4\text{ \AA}$ as investigated in the paper. Other molecules can be implemented in the submodule molecules.
+All example scripts use the $H_6$ molecule with $4\AA$ as investigated in the paper. Other molecules can be implemented in the submodule molecules.
 
 ## Simulation Time
 
